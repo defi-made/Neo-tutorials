@@ -137,9 +137,9 @@ Oracles allow smart contracts to access real-world data. Supra Oracle is a servi
 
 
 
-##thanks for your time
+Thanks for your time
 
 -
 
-**I think I will stop here for today,together, let's make Neo technology accessible to everyone!
+I think I will stop here for today,together, let's make Neo technology accessible to everyone!
 
