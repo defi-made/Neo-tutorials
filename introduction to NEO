@@ -1,16 +1,1 @@
 
-## **1. Introduction to Neo Ecosystem**
-Neo is a blockchain platform designed for creating decentralized applications (dApps). It aims to establish a smart economy by integrating digital assets, digital identity, and smart contracts.
-
-### Key Features of Neo:
-1. **NeoVM**: A lightweight virtual machine for executing smart contracts efficiently.  
-2. **NeoID**: A decentralized identity solution for managing digital identities.  
-3. **NeoFS**: A distributed file storage system for decentralized applications.  
-4. **Dual-Token Model**: NEO (governance) and GAS (transaction fees).  
-
-### Why Choose Neo?
-- High throughput and low transaction costs.  
-- Native integration with oracles, file storage, and identity systems.  
-- Developer-friendly tooling and multi-language support.  
-
-Learn more at [Neo.org](https://neo.org).
